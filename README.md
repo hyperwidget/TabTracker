@@ -10,5 +10,7 @@ You can easily install to chrome through the webstore [here](https://chrome.goog
 ## Preview
 ![Screen shot!](/Screenshot.png?raw=true "Screen Shot!")
 
+![Gif!](/TabTracker.gif?raw=true "Gif!")
+
 ## Contributing
 If you'd like to make this a little better, or notice a bug you hate - feel free to either add an issue or even fork and make a pull request!
